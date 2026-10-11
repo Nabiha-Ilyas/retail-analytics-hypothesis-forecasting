@@ -77,4 +77,4 @@ Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
 
 **Nabiha Ilyas**
 
-Portfolio: nabiha-ilyas-portfolio.netlify.app | GitHub: Nabiha-Ilyas
+[Portfolio](https://nabiha-ilyas-portfolio.netlify.app) | [GitHub](https://github.com/Nabiha-Ilyas) | [LinkedIn](https://www.linkedin.com/in/nabiha-ilyas-70b6212ba/)

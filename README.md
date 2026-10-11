@@ -75,6 +75,6 @@ Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
 
 ## Author
 
-**Nabiha Ilyas Siddiqui**
-BS Computer Science, Sir Syed University of Engineering & Technology
+**Nabiha Ilyas**
+
 Portfolio: nabiha-ilyas-portfolio.netlify.app | GitHub: Nabiha-Ilyas
